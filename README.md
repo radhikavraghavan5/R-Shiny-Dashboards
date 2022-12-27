@@ -10,10 +10,13 @@
 <img width="1477" alt="Screen Shot 2022-12-27 at 5 36 33 PM" src="https://user-images.githubusercontent.com/56044346/209666141-4a804706-511e-43f2-885e-6b6b54794ef8.png">
 
 
-## []() 
+## [Penguins Measurement Data](https://rvijayaraghavan.shinyapps.io/penguins/?_ga=2.176247845.1893239067.1667202449-2021316318.1666652839)
+<img width="1450" alt="Screen Shot 2022-12-27 at 5 40 37 PM" src="https://user-images.githubusercontent.com/56044346/209666573-068b36c2-ded6-48eb-ae48-745ce4caa9fc.png">
 
 
-## []() 
+
+## [MacLeish Weather Station app](https://rvijayaraghavan.shinyapps.io/Macleish_Weather_App/?_ga=2.269039473.1893239067.1667202449-2021316318.1666652839) 
+<img width="938" alt="Screen Shot 2022-12-27 at 5 44 45 PM" src="https://user-images.githubusercontent.com/56044346/209666411-1bbe2951-df4e-4a2f-b181-009d5f8098d8.png">
 
 
 ## [NewYork city Restaurant Violations app](https://rvijayaraghavan.shinyapps.io/problem_4_Restaurant_Violations_app/?_ga=2.105126915.1893239067.1667202449-2021316318.1666652839) 

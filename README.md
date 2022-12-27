@@ -1,5 +1,4 @@
-# R-Shiny-apps
-
+# R-Shiny-web-apps
 
 
 ## [Click here to visit Google Trend Index app](https://9s5483-radhika-vijayaraghavan.shinyapps.io/Problem02_Revised_GoogleTrendIndex/) 

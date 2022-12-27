@@ -5,7 +5,7 @@
 <img width="1452" alt="Screen Shot 2022-12-27 at 5 30 25 PM" src="https://user-images.githubusercontent.com/56044346/209665939-43a59363-74a0-468d-8f97-b4ffde12cb1e.png">
 
 
-## [Click here to visit Flex Dashboard for LYFT Trips](https://rpubs.com/viradhika/973668) 
+## [Click here to visit interactive Flex Dashboard for LYFT Trips](https://rpubs.com/viradhika/973668) 
 <img width="1477" alt="Screen Shot 2022-12-27 at 5 36 33 PM" src="https://user-images.githubusercontent.com/56044346/209666141-4a804706-511e-43f2-885e-6b6b54794ef8.png">
 
 
